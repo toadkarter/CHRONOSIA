@@ -1,0 +1,358 @@
+line1="[Welcome, Cadet! Glory to Admiral Radius!]"
+line2="[Congratulations are in order. By reaching this point in your training you have shown impeccable physical prowess, mental discipline, and unflinching loyalty to Chronosia Industries and its values.] "
+line3="[Unfortunately, duty prevents Admiral Radius from congratulating you on this significant achievement in person. He has, however, signed off on the text in this automated welcome message - you may view this as a communication by proxy if you so wish.]"
+line4="[There are very few that make it to this point in the training program - no doubt many of your colleagues, some of whom you may even have called friends - have dropped out due to the intense stress and high demands placed upon your young shoulders.] "
+line5="[This is a direct credit to you. We have culled the weak, and you remained. Allow yourself a moment to experience pride.]"
+screen1=[line1,line2,line3,line4,line5]
+
+line6="[But one thing yet eludes you - something that we test for rigorously before we allow a Cadet to become an official Chronosia Industries Enforcer.]"
+line7="[You may have felt tremors of its call, dreams and visions of experiences seen through a dark mirror…]"
+line8="[A whisper of things that yet may be.]"
+screen2=[line6,line7,line8]
+
+line9="[Yes, Cadet, we are of course talking of SightParsing. Your final step before you are able to walk the streets, doling out justice on behalf of our clients.]"
+line10="[No doubt the mandatory surgery you undertook before becoming a Cadet has aided you in developing this talent… But sadly, despite decades of research, we have not been able to induce SightParsing through surgery and training alone.]"
+line11="[We have discovered that SightParsing instead requires a singular, focal point of exertion on behalf of the test subject - a moment of acute stress that finally unveils the talent within the individual]"
+line12="[In our experience, a field exam is the best way to generate such a moment.]"
+screen3=[line9,line10,line11,line12]
+
+line13="[Unfortunately, as you may be aware, our Legal Team has recommended that we suspend all field exams until the unfortunate incidents that took place during the last several tests have been fully investigated.]"
+line14="[As such, the Chronosia Industries R&D Department has created this interactive experience as a final test for you.]"
+line15="[It is based on real events experienced by one of our finest Enforcers, Ambrosia Monad. Some of you may have even met Enforcer Monad, and those individuals will no doubt attest to the strength of her character.]"
+line16="[Please try to react to the events in this interactive experience as naturally as possible.]"
+screen4=[line13,line14,line15,line16]
+
+line17="[One final point before we begin: any messages that you encounter that are surrounded by square brackets (much like this message) are NOT part of the experience. They are guidance notes to help you navigate the interface of this terminal.]"
+line18="[Best of luck, Cadet! Glory to Admiral Radius!]"
+line19="[NOTE: The Chronosia Industries Legal Department would like to stress that none of the views expressed in this interactive experience represent the views of Chronosia Industries or any of its parent and/or holding companies]"
+screen5=[line17,line18,line19]
+
+line20="Hey…  Is this thing on?"
+line21="Yeah? "
+line22="OK, fine. Yes. "
+line23="…"
+line24="Understood. Introduce myself?"
+line25="Alright then. "
+screen6=[line20,line21,line22,line23,line24,line25]
+
+line26="To whoever is reading this… hello. I’ve been asked to introduce myself, so here I am, I guess, doing just that."
+line27="Although I gotta say, it feel pretty damn odd talking out loud like this. "
+screen7=[line26,line27]
+
+line28="My name is Ambrosia Monad. I am an Enforcer. "
+line29="Enforcer… I’ve been calling myself that for a few weeks now, but saying it out still feels new to me. I suppose the person reading this will go through the same thing… Well. I hope so, at least. "
+screen8=[line28,line29]
+
+line30="Hey you, behind the glass - is any of this working through? You guys getting the recording OK? "
+line31="Good. Alright. "
+line32="Ah, they’ve left now. I guess they did tell me they would do that. They said that it’s to give me some privacy, to make sure that I can give as subjective an account of what happened as possible, but who are they kidding. "
+line33="We both know that as soon as I am done here, the guys in legal will be crawling all over this text to make sure that I didn’t hurt the feelings of any Chronodrones up on the top floor. "
+line34="It’s not like I care, anyway. After what I saw… I know that I’m on my way out. Might as well be as honest as I can, while I still can. Maybe someone, somewhere will be able to read this unedited version, before it’s sanitised and mutilated beyond all recognition. "
+screen9=[line30,line31,line32,line33,line34]
+
+line35="Some background - they called me in a couple of days, put me under sedation and stuffed some kind of subdermal pad under my left ear. Hurt like hell but that’s par the course for this job. "
+line36="They asked me to give my account of how exactly I induced my SightParsing ability. All I have to do is talk, and the pad will act as some sort of emotional translator, editing the transcript to match my feelings and emotions more accurately. "
+line37="I don’t really know how the tech behind this works, nor do I particularly care."
+line38="They said that this thing will be popped into a computer and used as training for future Cadets, which gave me a good chuckle. Do they really think that they can replicate the level of sheer panic needed to induce SightParsing? I don’t know about you, but I certainly can’t remember the last time I felt the fear of death while sitting at a computer. "
+screen10=[line35,line36,line37,line38]
+
+line39="No matter."
+line40="I’ll do what they asked of me, and then I will face the consequences for following their instructions. It’s the only honorable thing to do given the circumstances. "
+line41="If you are reading this, it’s very possible that I have been terminated for my actions. Hell, it’s entirely possible that noone will ever read this altogether, this recording deleted from existence, my memories lost forever. "
+screen11=[line39,line40,line41]
+
+line42="It’s possible. But there’s still a chance."
+line43="And it’s a chance I’m going to take. "
+line44="Are you ready, Cadet?"
+line45="Let’s begin."
+screen12=[line42,line43,line44,line45]
+
+line46="[Date: 15 October 2115]"
+line47="[Time: 03:02]"
+line48="[Location: Chronosia Industries Cadet Barracks, Individual Quarters]"
+screen13=[line46,line47,line48]
+
+line49="I wake sharply to the godawful, stabbing sound of my commlink. "
+line50="Christ almighty. "
+line51="What time is it? "
+screen14=[line49,line50,line51]
+
+line52="Still half-asleep, muscles aching from yesterday’s fitness diagnostic, I fumble blindly in the dark at the source of that horrible noise. "
+line53="Ah. There it is. "
+line54="I stab at the ‘answer’ button groggily, and the noise, mercifully, cuts out."
+screen15=[line52,line53,line54]
+
+line55="-Cadet Monad speaking. How may I be of assistance? "
+line56="-Get ready for deployment in 10 minutes, Cadet. Make sure you’re fully armed. Do not be late. "
+line57="And then the comm goes silent. "
+screen16=[line55,line56,line57]
+
+line58="I could recognise that gravelly voice anywhere… "
+line59="Commander Paulson has been my superior since my earliest days at Chronosia Industries. He reports directly to Admiral Radius, which means that he is also directly responsible for making sure that all Cadets within the company are worthy of their title. "
+line60="He is extremely good at his job, mostly due to complete lack of squeamishness when it comes to discipline… I certainly have the bruises to prove it. "
+screen17=[line58,line59,line60]
+
+line61="There’s an awful feeling at the pit of my stomach as I fuss over my uniform. "
+line62="Something doesn’t feel right. "
+line63="Paulson is a hard-ass, sure, and he has woken us up in the middle of the night before, but never with this much short notice. "
+line64="I check the display of my commlink and notice that heart rate of all other Cadidates is low… They are asleep. "
+line65="I am the only one that has been summoned for… whatever this is. "
+screen18=[line61,line62,line63,line64,line65]
+
+line66="[Greetings once more, Cadet, and apologies for interrupting your interactive experience!]"
+line67="[As mentioned previously, you can tell that this is a message from the program and is NOT part of the experience as the words are contained within square brackets.]"
+screen19=[line66,line67]
+
+line68="[You are about to engage with a navigation problem, the first of many, which simulates decisions that Enforcer Monad experienced during this time period.]"
+line69="[Thankfully, the first problem is extremely simple, and as such you should take the opportunity to familiarise yourself with the commands available to you.] "
+line70="[Future problems - which will be more challenging - will use the same controls and commands.]"
+screen20=[line68,line69,line70]
+
+line71="[The text in the problem will feature certain objects that you can interact with. They will be surrounded by square brackets]"
+line72="[To utilise the ‘Examine’ command, type ‘examine obj’, with the letters ‘obj’ replaced by the object you want to examine. For example - ‘examine key’. You will receive a short description of the object]"
+line73="[To utilise the ‘Pick’ command, type ‘pick obj’, with the letters ‘obj’ replaced by the object you want to pick up. For example - ‘pick key’. You will add the object to your inventory]"
+line74="[To utilise the ‘inventory’ command, type ‘inventory’. You will be able to see the objects you have in your inventory.]"
+line75="[To utilise the ‘Use’ command, type ‘use obj1’ or ‘use obj1 obj2’, with the letters obj1 and obj2 replaced by the objects that you want to use. The form ‘use obj1 obj2’ will result in obj1 being used on obj2, for example ‘use key door’ will result in the key being used on the door]"
+line76="[To view these instructions again, type ‘tutorial’ in the commands section.]"
+line77="[Best of luck - and glory to Admiral Radius!]"
+screen21=[line71,line72,line73,line74,line75,line76,line77]
+
+line78="[Congratulations Cadet - you have completed your first navigation problem!]"
+line79="[Rest assured - going forward these will not be as easy.]"
+line80="[Let us resume with the scheduled programming]"
+screen22=[line78,line79,line80]
+
+line81="All traces of sleep are gone now, as I lock the door to my quarters behind me and make my way to the Briefing Room. "
+line82="I am immediately drawn to the worst case scenario. Am I finally getting dropped from the programme? "
+line83="My performance has been consistently above average for months, so it doesn’t seem likely that they’ll boot me for lack of progress. "
+line84="There have been a few altercations with some of the instructors, but that’s par the course with Cadets. To be honest, I sometimes feel like Commander Paulson encourages it. "
+line85="As Enforcers, it’s not likely that we will survive without being able to confront those who stand against us, whether it be through words or through violence. "
+screen23=[line81,line82,line83,line84,line85]
+
+line86="I turn the corner and finally see the door to the Briefing Room ahead of me. It’s a large, metal door, dented and scarred from generations of Cadets, Enforcers and Commanders cutting notches in it on their way in and out of meetings. "
+line87="They say it’s good luck. "
+line88="I never believed it, but as I open the door and walk into the large auditorium inside, the thought of making a little notch crosses my mind."
+screen24=[line86,line87,line88]
+
+line89="The smell of tobacco hits me immediately. It’s a large room, but Paulson’s legendary smoking habit has been at work here. I can barely make him out in the center, sitting behind a desk so large it’s almost funny.. "
+line90="Paulson is a short man, so all I can see of him behind that monstrosity of a table is his small, bearded head. "
+line91="His glasses glisten menacingly in the dark."
+screen25=[line89,line90,line91]
+
+line92="- Glory to Admiral Radius. Have a seat, Monad."
+line93="I walk over to the chair opposite my commander, trying not to cough from all the smoke. "
+line94="He looks at me for a while after I’ve sat down. His glasses hide any sign of his motives for calling me in here. "
+line95="I stay quiet, waiting for him to speak. "
+screen26=[line92,line93,line94,line95]
+
+line96="…"
+line97="…"
+line98="…"
+line99="- Well, then. I guess I’ll get right down to it."
+line100="The Commander picks up a glass of water and sips pensively. For a moment, I can see the water’s reflection in his glasses, and the reflection of the glasses in the water. "
+line101="The effect is dizzying. "
+line102="I feel unwell."
+screen27=[line96,line97,line98,line99,line100,line101,line102]
+
+line103="- We’ve caught On-Lam. "
+line104="My heart stops. How?"
+screen28=[line103,line104]
+
+line105="The Commander pauses, clearly enjoying this shocking reveal, before continuing."
+line106="- And we want you to interrogate him. I’m sure you have a lot of questions, Cadet. Be quick about it - we will need to get started soon."
+screen29=[line105,line106]
+
+line107="He takes off his glasses and rubs them with a handkerchief. "
+line108="The thick smoke still makes it hard to see his eyes clearly, but I can tell that he’s tired."
+screen30=[line107,line108]
+
+line109="- I was sure you would be wondering why you’ve been tasked with interrogating a high-ranking member of one of the most feared gangs in this city. "
+line110="The simple answer is - I think you’re ready. "
+line111="I know we’ve had our differences over the years, but you are an exemplary Cadet. If this goes well… I’ll be personally recommending you for the position of Enforcer.’"
+screen31=[line109,line110,line111]
+
+line112="I knew this day would come, but I am still shocked. "
+line113="It makes sense, I suppose - no-one stays a Cadet for over a decade, they either flunk out or get promoted - but it doesn’t feel real. "
+line114="I get the odd sensation of watching my own body from a distance, as if I am detached from what’s going on. "
+screen32=[line112,line113,line114]
+
+line115="Paulson’s glasses seem to sparkle, and I think I can see a hint of a smile. Or a smirk. "
+line116="- This is a great honour for you, Cadet. But be aware that this will be a challenge unlike anything you have faced yet."
+line117="On-Lam is not a happy man, and he has not taken kindly to being captured. If I may make a suggestion…"
+line118="You should probably start off with a verbal interrogation. See what he gives willingly. "
+line119="After that, you can use the Melt."
+screen33=[line115,line116,line117,line118,line119]
+
+line120="I am suddenly grateful that I enrolled in extra Melt training a few years back. "
+line121="The mental fortitude required for such a procedure is strenuous enough with a willing subject, let alone a criminal like On-Lam. "
+screen34=[line120,line121]
+
+line122="- The Melt will let you see - and feel - On-Lam’s experiences up until his capture as if you were On-Lam himself. "
+line123="Be aware that he knows that our officers can use the Melt - he probably has psychic defenses up against such methods. He may have several cover stories concocted to throw you off course."
+line124="Make sure that you explore his mind thoroughly, and try to make decisions that you think the true On-Lam will have made - that way you will find the true path through his mind. "
+line125="The things you will see… they may be deeply unpleasant, to say the least. "
+line126="Just be aware that they represent events the way On-Lam experienced them, not necessarily the way they happened. "
+screen35=[line122,line123,line124,line125,line126]
+
+line127="We know that right before his capture, On-Lam had in his possession three containers, which look like perfectly black cubes."
+line128="He no longer had them on him when he was captured. "
+line129="Your goal is to enter his mind and figure out where exactly he left them, so that we can retrieve them. "
+line130="I cannot tell you what those containers contain… but what I can tell you that their contents are of extreme importance to our client. "
+line131="You *must* find out their location."
+screen36=[line127,line128,line129,line130,line131]
+
+line132="He leaned back in his chair. "
+line133="- My final piece of advice to you, Cadet."
+line134="I know you and your peers have long awaited the gift of SightParsing - the final requirement you need to fulfil before you have all the skills to become an Enforcer. "
+line135="This final test that I have set in front of you…"
+line136="This is the exact set of stressful circumstances that you need to activate this gift. "
+line137="You will be in great danger, and you will feel out of your depth - at times you may feel like you have failed, even - but just remember…"
+screen37=[line132,line133,line134,line135,line136,line137]
+
+line138="Failure is not the end - it’s a new beginning."
+screen38=[line138]
+
+line139="And then we both go quiet, sitting in the smoky room, waiting for… something. "
+line140="- If you’re ready, Cadet?"
+line141="I nod."
+line142="“I’m ready, Commander.”"
+screen39=[line139,line140,line141,line142]
+
+line143="- Good. As I’m sure you’re aware, On-Lam’s location is highly classified, even to you. I will have to sedate you before transporting you over to him."
+line144="Paulson walks over and I can see a syringe in his left hand. "
+line145="I’m not scared of needles, but my skin crawls as he gently pokes the sedative into my neck and pushes the plunger. I barely feel a thing. "
+line146="My vision blurs, and the only thing I can see is the Commander’s glasses, the only constant in a room full of smoke. "
+screen40=[line143,line144,line145,line146]
+
+line147="I think I hear him repeat the words, “failure is not the end” again, before my vision goes completely dark…"
+line148="And then, just silence. "
+screen41=[line147,line148]
+
+line149="…"
+screen42=[line149]
+
+line150="…"
+screen43=[line150]
+
+line151="…"
+screen44=[line151]
+
+line152="…"
+screen45=[line152]
+
+line153="…"
+screen46=[line153]
+
+line154=" "
+line155="I wake to harsh light and a low hum. "
+line156="My body is numb, but as I try and move my extremities and can sense the feeling slowly begin to return. "
+line157="I am still in the chair where Commander Paulson sedated me, but the room is different."
+line158="I recognise it from training. "
+screen47=[line154,line155,line156,line157,line158]
+
+line159="This is the interrogation chamber. I have questioned virtual recreations of all manner of human scum - war criminals and assassins, drug pushers and holo-pirates - over the course of my training…"
+line160="But I have never practiced the Melt on a living human being. "
+line161="I stand up out of the chair and feel a little dizzy. I vaguely wonder how long I have been unconscious. "
+screen48=[line159,line160,line161]
+
+line162="Ahead of me is a door behind which lies my target… and my victim. "
+line163="I walk across the metal doorway and present my retina for scanning. "
+line164="The sensor beeps lazily and the door swings open. "
+line165="I walk in, trying to swallow, but my throat is far too dry for that."
+screen49=[line162,line163,line164,line165]
+
+line166="And then I see him - or, at least, what’s visible of him. "
+line167="On-Lam is stood in the middle of the room, his arms and feet constrained with shackles that are of a material I can’t seem to place."
+line168="His body is suspended in the air by chains that are affixed to every corner of the loop - the effect is that of a floating coffin. "
+line169="There is a helmet on his head, made of the same material as the shackles, which covers his eyes. "
+line170="His mouth is the only part of his body that is visible. His lips are held together so tight that they look like some sort of wound, and I wonder if he is in pain. "
+screen50=[line166,line167,line168,line169,line170]
+
+line171="I catch myself almost immediately. "
+line172="You can’t think of this scum as people. "
+line173="As Commander Paulson said… it’s better to start with a verbal interrogation before conducting a Melt. "
+line174="I take a deep breath… and begin. "
+screen51=[line171,line172,line173,line174]
+
+line175="‘You tell me, Chrono-scum.’"
+line176="He smiles, but there’s no cruelty in it. "
+line177="He’s almost sad. "
+line178="‘I know you’re just itching to use that thing on your wrist."
+line179="Well, if you’re going to poke around inside my head, I’d suggest you get on with it…"
+line180="I don’t want to be stuck here all day.’"
+screen52=[line175,line176,line177,line178,line179,line180]
+
+line181="He’s right, of course. The thing that is about to happen is going to be deeply unpleasant - for both of us. "
+line182="I fidget with the Melt config on my wrist display and point the device towards On-Lam. "
+line183="The readings… they’re off the charts. "
+line184="Definitely not just standard memories over there in his head… there’s more there."
+line185="A trap for me, no doubt. "
+line186="But as he himself has said - no use in putting it off. "
+screen53=[line181,line182,line183,line184,line185,line186]
+
+line187="‘Do it!’ I hear him yell as I press down on the execute command on my wrist…"
+line188="…there’s a great, familiar wooshing, as my presence torpedoes in towards an abstraction of On-Lam’s mind. "
+line189="Some of the other minor drug-pushers I’ve had to Melt during training with had tiny, insignificant minds. "
+line190="In the Melt interface the content of their heads were represented by tiny, dirty shacks with almost nothing inside. "
+line191="In comparison, On-Lam’s mind in front of me is a colossal palace, full of intricate rooms, stairs and doors, looping in and out of themselves. "
+line192="It’s going to be extremely difficult to find what I’m looking for in here. "
+screen54=[line187,line188,line189,line190,line191,line192]
+
+line193="I focus deeply on the building ahead and sense that behind one of the doors is what I am looking for. "
+line194="A memory - or series of memories - that took place over the course of yesterday.  "
+line195="I see a museum on fire."
+line196="I see a decadent display of wealth about to turn sour. "
+line197="I see the poor and the rich, on the precipice of violence"
+screen55=[line193,line194,line195,line196,line197]
+
+line198="This seems…right. "
+screen56=[line198]
+
+line199="I feel closer and closer to On-Lam as I focus on him and his thoughts. "
+line200="The experience a bleed between our feelings - there’s a fear there, but also… an anticipation? "
+line201="Something isn’t right. "
+line202="There is no longer a me… or a him. "
+line203="There is a… you? "
+line204="Yes… you. It’s you, On-Lam."
+screen57=[line199,line200,line201,line202,line203,line204]
+
+line205="You. You are running down a street ablaze with riots. You feel a sick thrill at the violence about to unfurl, and underneath it all, a simmering hate towards Chronosia. You want to see them dead. "
+screen58=[line205]
+
+line206="You know that Chronosia are after you, and that they will catch you soon… but not until you collect the three Boxes, scattered among Shogunate agents in San Weyhoon. It kills you that you will only be able to reach one of them tonight. "
+screen59=[line206]
+
+line207="Just one of three. "
+line208="The first box lies with Rachel Monet, a deep cover operative posing as a director of the museum of Chronosia Industries."
+line209="The second box lies with [REDACTED]"
+line210="The third box lies with [REDACTED]"
+screen60=[line207,line208,line209,line210]
+
+line211="[Cadet - unfortunately our programmers have yet to complete this interactive experience.]"
+line212="[As such, we are currently only able to offer you the Museum route.]"
+line213="[We will notify you once the other two routes are complete.]"
+screen61=[line211,line212,line213]
+
+line214="You decide to go after Monet’s box. Thankfully, the museum is the closest of the three locations. You turn a corner, and the museum stands in front of you. The riots have been burning here for weeks now, and the grand facade of the building is smashed to bits - windows in shards, walls pockmarked with bullet holes… A wonderful sight, you think, and smile to yourself. "
+screen62=[line214]
+
+line215="You feel a tinge of sadness as you consider that Monet may no longer be alive, given the state of the building - the inside is probably even worse. Nonetheless… the box must be retrieved. You go up to the front door… and enter."
+screen63=[line215]
+
+line216="The three questions were answered correctly… The computer screen pushes inwards and slides up somewhere in the depths of the statue base. "
+screen64=[line216]
+
+line217="Underneath, there is a large recess, and inside - a pitch black box. It is of such a deep colour that it doesn’t feel like it’s of this Earth. This is what you came all this way for, what you risked your life for… and now it’s in your position. "
+screen65=[line217]
+
+line218="You take it out of the recess and it begins to hum - a low, even sound, soothing almost. "
+line219="You touch it on the top surface, and it simply melts away. "
+line220="You look inside…"
+line221="[REDACTED]"
+line222="[REDACTED]"
+line223="[REDACTED]"
+screen66=[line218,line219,line220,line221,line222,line223]
+
+line224="[Cadet, you have currently reached the end of this experience - unfortunately our programmers are still hard at working at completing the rest of the paths and the ending.]"
+line225="[Thank you for playing!]"
+screen67=[line224,line225]

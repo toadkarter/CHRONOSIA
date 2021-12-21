@@ -1,0 +1,615 @@
+﻿[Welcome, Cadet! Glory to Admiral Radius!]
+[Congratulations are in order. By reaching this point in your training you have shown impeccable physical prowess, mental discipline, and unflinching loyalty to Chronosia Industries and its values.] 
+[Unfortunately, duty prevents Admiral Radius from congratulating you on this significant achievement in person. He has, however, signed off on the text in this automated welcome message - you may view this as a communication by proxy if you so wish.]
+[There are very few that make it to this point in the training program - no doubt many of your colleagues, some of whom you may even have called friends - have dropped out due to the intense stress and high demands placed upon your young shoulders.] 
+[This is a direct credit to you. We have culled the weak, and you remained. Allow yourself a moment to experience pride.]
+
+[But one thing yet eludes you - something that we test for rigorously before we allow a Cadet to become an official Chronosia Industries Enforcer.]
+[You may have felt tremors of its call, dreams and visions of experiences seen through a dark mirror…]
+[A whisper of things that yet may be.]
+
+[Yes, Cadet, we are of course talking of SightParsing. Your final step before you are able to walk the streets, doling out justice on behalf of our clients.]
+[No doubt the mandatory surgery you undertook before becoming a Cadet has aided you in developing this talent… But sadly, despite decades of research, we have not been able to induce SightParsing through surgery and training alone.]
+[We have discovered that SightParsing instead requires a singular, focal point of exertion on behalf of the test subject - a moment of acute stress that finally unveils the talent within the individual]
+[In our experience, a field exam is the best way to generate such a moment.]
+
+[Unfortunately, as you may be aware, our Legal Team has recommended that we suspend all field exams until the unfortunate incidents that took place during the last several tests have been fully investigated.]
+[As such, the Chronosia Industries R&D Department has created this interactive experience as a final test for you.]
+[It is based on real events experienced by one of our finest Enforcers, Ambrosia Monad. Some of you may have even met Enforcer Monad, and those individuals will no doubt attest to the strength of her character.]
+[As you are no doubt aware, her recent death at the hands of the vile Shogunate has sent shockwaves across San Weyhoon - her murder, like the murder of Commander Emily Yu before her, will be avenged. Perhaps it will be you that dispenses justice at the hands of our enemies!]
+[Please try to react to the events in this interactive experience as naturally as possible.]
+
+[One final point before we begin: any messages that you encounter that are surrounded by square brackets (much like this message) are NOT part of the experience. They are guidance notes to help you navigate the interface of this terminal.]
+[Best of luck, Cadet! Glory to Admiral Radius!]
+[NOTE: The Chronosia Industries Legal Department would like to stress that none of the views expressed in this interactive experience represent the views of Chronosia Industries or any of its parent and/or holding companies]
+
+<START>
+Hello, Cadet, and welcome to this interactive experience - starring none other than me, Enforcer Monad! Glory to Admiral Radius! 
+Let me regale you of the story of what happened on that noble day when I was finally able to induce my SightParsing ability. 
+It all started when - 
+
+…
+…
+…
+
+<START>
+Hey…  Is this thing on?
+Yeah? 
+OK, fine. Yes. 
+…
+Understood. Introduce myself?
+Alright then. 
+
+To whoever is reading this… hello. I’ve been asked to introduce myself, so here I am, I guess, doing just that.
+Although I gotta say, it feel pretty damn odd talking out loud like this. 
+
+My name is Ambrosia Monad. I am an Enforcer. 
+Enforcer… I’ve been calling myself that for a few weeks now, but saying it out still feels new to me. I suppose the person reading this will go through the same thing… Well. I hope so, at least. 
+
+Hey you, behind the glass - is any of this coming through? You guys getting the recording OK? 
+Good. Alright. 
+Ah, they’ve left now. I guess they did tell me they would do that. They said that it’s to give me some privacy, to make sure that I can give as subjective an account of what happened as possible, but who are they kidding. 
+We both know that as soon as I am done here, the guys in legal will be crawling all over this text to make sure that I didn’t hurt the feelings of any Chronodrones up on the top floor. 
+It’s not like I care, anyway. After what I saw… I know that I’m on my way out. Might as well be as honest as I can, while I still can. Maybe someone, somewhere will be able to read this unedited version, before it’s sanitised and mutilated beyond all recognition. 
+
+Some background - they called me in a couple of days, put me under sedation and stuffed some kind of subdermal pad under my left ear. Hurt like hell but that’s par the course for this job. 
+They asked me to give my account of how exactly I induced my SightParsing ability. All I have to do is talk, and the pad will act as some sort of emotional translator, editing the transcript to match my feelings and emotions more accurately. 
+I don’t really know how the tech behind this works, nor do I particularly care.
+They said that this thing will be popped into a computer and used as training for future Cadets, which gave me a good chuckle. 
+No way in hell that typing commands at a computer could replicate what I went through on that day…
+
+No matter.
+I’ll do what they asked of me, and then I will face the consequences for following their instructions. It’s the only honorable thing to do given the circumstances. 
+If you are reading this, it’s very possible that I have been terminated for my actions. Hell, it’s entirely possible that recording will be deleted from existence, my memories lost forever. 
+
+It’s possible. But there’s still a chance.
+And it’s a chance I’m going to take. 
+Are you ready, Cadet?
+Let’s begin.
+
+[Date: 15 October 2115]
+[Time: 03:02]
+[Location: Chronosia Industries Cadet Barracks, Individual Quarters]
+
+I wake sharply to the godawful, stabbing sound of my commlink. 
+Christ almighty. 
+What time is it? 
+
+Still half-asleep, muscles aching from yesterday’s fitness diagnostic, I fumble blindly in the dark at the source of that horrible noise. 
+Ah. There it is. 
+I stab at the ‘answer’ button groggily, and the noise, mercifully, cuts out.
+
+-Cadet Monad speaking. How may I be of assistance? 
+-Get ready for deployment in 10 minutes, Cadet. Make sure you’re fully armed. Do not be late. 
+And then the comm goes silent. 
+
+I could recognise that gravelly voice anywhere… 
+Commander Paulson has been my superior since my earliest days at Chronosia Industries. Shee reports directly to Admiral Radius, which means that she is also directly responsible for making sure that all Cadets within the company are worthy of their title. 
+She is extremely good at his job, mostly due to complete lack of squeamishness when it comes to discipline… I certainly have the bruises to prove it. 
+
+There’s an awful feeling at the pit of my stomach as I fuss over my uniform. 
+Something doesn’t feel right. 
+Paulson is a hard-ass, sure, and she has woken us up in the middle of the night before, but never with this much short notice. 
+I check the display of my commlink and notice that the heart rate of all other Cadets is low… They are asleep. 
+I am the only one that has been summoned for… whatever this is. 
+
+[Greetings once more, Cadet, and apologies for interrupting your interactive experience!]
+[As mentioned previously, you can tell that this is a message from the program and is NOT part of the experience as the words are contained within square brackets.]
+
+[You are about to engage with a navigation problem, the first of many, which simulates decisions that Enforcer Monad experienced during this time period.]
+[Thankfully, the first problem is extremely simple, and as such you should take the opportunity to familiarise yourself with the commands available to you.] 
+[Future problems - which will be more challenging - will use the same controls and commands.]
+[Would you like to read through the instructions?]
+[Enter 0, followed by ‘enter’, to read, enter 1, followed by ‘enter’, to proceed directly to the exercise]
+
+[The text in the problem will feature certain objects that you can interact with. They will be surrounded by square brackets]
+[To utilise the ‘Examine’ command, type ‘examine obj’, with the letters ‘obj’ replaced by the object you want to examine. For example - ‘examine key’. You will receive a short description of the object.]
+[To utilise the ‘Pick’ command, type ‘pick obj’, with the letters ‘obj’ replaced by the object you want to pick up. For example - ‘pick key’. You will add the object to your inventory]
+[To utilise the ‘inventory’ command, type ‘inventory’. You will be able to see the objects you have in your inventory.]
+
+[To utilise the ‘Use’ command, type ‘use obj1’ or ‘use obj1 obj2’, with the letters obj1 and obj2 replaced by the objects that you want to use. The form ‘use obj1 obj2’ will result in obj1 being used on obj2, for example ‘use key door’ will result in the key being used on the door.]
+[Please note that sometimes objects may be hidden inside other objects, and as such will not be immediately visible. Make sure to examine all object carefully, and choose the ‘use’ button on objects frequently to see what what can be done with them - it might not be obvious in the first instance]
+[To view these instructions again, type ‘tutorial’ in the commands section.]
+[Best of luck - and glory to Admiral Radius!]
+
+[Congratulations Cadet - you have completed your first navigation problem!]
+[Rest assured - going forward these will not be as easy.]
+[Let us resume with the scheduled programming.]
+
+All traces of sleep are gone now, as I lock the door to my quarters behind me and make my way to the Briefing Room. 
+I am immediately drawn to the worst case scenario. Am I finally getting dropped from the programme? 
+My performance has been consistently above average for months, so it doesn’t seem likely that they’ll boot me for lack of progress. 
+There have been a few altercations with some of the instructors, but that’s par the course with Cadets. To be honest, I sometimes feel like Commander Paulson encourages it. 
+As Enforcers, it’s not likely that we will survive without being able to confront those who stand against us, whether it be through words or through violence. 
+
+I turn the corner and finally see the door to the Briefing Room ahead of me. It’s a large, metal door, dented and scarred from generations of Cadets, Enforcers and Commanders cutting notches in it on their way in and out of meetings. 
+They say it’s good luck. 
+I never believed it, but as I open the door and walk into the large auditorium inside, the thought of making a little notch crosses my mind.
+
+The smell of tobacco hits me immediately. It’s a large room, but Paulson’s legendary smoking habit has been at work here. I can barely make her out in the center, sitting behind a desk so large it’s almost funny.. 
+Paulson is a short woman, so all I can see of her behind that monstrosity of a table is her tiny head. 
+Her glasses glisten menacingly in the dark.
+
+- Glory to Admiral Radius. Have a seat, Monad.
+I walk over to the chair opposite my commander, trying not to cough from all the smoke. 
+She looks at me for a while after I’ve sat down. Her glasses hide any sign of her motives for calling me in here. 
+I stay quiet, waiting for her to speak. 
+
+…
+…
+…
+- Well, then. I guess I’ll get right down to it.
+The Commander picks up a glass of water and sips pensively. For a moment, I can see the water’s reflection in her glasses, and the reflection of the glasses in the water. 
+The effect is dizzying. 
+I feel unwell.
+
+- We’ve caught On-Lam. 
+My heart stops. How?
+
+The Commander pauses, clearly enjoying this shocking reveal, before continuing.
+- And we want you to interrogate him. I’m sure you have a lot of questions, Cadet. Be quick about it - we will need to get started soon.
+
+She takes off her glasses and rubs them with a handkerchief. 
+The thick smoke still makes it hard to see her eyes clearly, but I can tell that she’s tired.
+
+- I was sure you would be wondering why you’ve been tasked with interrogating a high-ranking member of one of the most feared gangs in this city. 
+The simple answer is - I think you’re ready. 
+I know we’ve had our differences over the years, but you are an exemplary Cadet. If this goes well… I’ll be personally recommending you for the position of Enforcer.’
+
+I knew this day would come, but I am still shocked. 
+It makes sense, I suppose - no-one stays a Cadet for over a decade, they either flunk out or get promoted - but it still doesn’t feel real. 
+I get the odd sensation of watching my own body from a distance, as if I am detached from what’s going on. 
+
+Paulson’s glasses seem to sparkle, and I think I can see a hint of a smile. Or a smirk. 
+- This is a great honour for you, Cadet. But be aware that this will be a challenge unlike anything you have faced yet.
+On-Lam is not a happy woman right now, and she has not taken kindly to being captured. If I may make a suggestion…
+You should probably start off with a verbal interrogation. See what she gives willingly. 
+After that, you can use the Melt.
+
+I am suddenly grateful that I enrolled in extra Melt training a few years back. 
+The mental fortitude required for such a procedure is strenuous enough with a willing subject, let alone a criminal like On-Lam. 
+
+- The Melt will let you see - and feel - On-Lam’s experiences up until her capture as if you were On-Lam herself. 
+Be aware that she knows that our officers can use the Melt - she probably has psychic defenses up against such methods. She may have several cover stories concocted to throw you off course.
+Make sure that you explore her mind thoroughly, and try to make decisions that you think the true On-Lam will have made - that way you will find the true path through her mind. 
+The things you will see… they may be deeply unpleasant, to say the least. 
+Just be aware that they represent events the way On-Lam experienced them, not necessarily the way they happened. 
+
+We know that right before her capture, On-Lam had in his possession four containers, which look like perfectly black cubes.
+She no longer had them on her when she was captured. 
+Your goal is to enter her mind and figure out where exactly she left them, so that we can retrieve them. 
+I cannot tell you what those containers contain… but what I can tell you is that their contents are of extreme importance to our client. 
+You *must* find out their location.
+
+She leans back in her chair. 
+- My final piece of advice to you, Cadet.
+I know you and your peers have long awaited the gift of SightParsing - the final requirement you need to fulfil before you have all the skills you need to become an Enforcer. 
+This final test that I have set in front of you…
+This is the exact set of stressful circumstances that you need to activate this gift. 
+You will be in great danger, and you will feel out of your depth - at times you may feel like you have failed, even - but just remember…
+
+Failure is not the end - it’s a new beginning.
+
+And then we both go quiet, sitting in the smoky room, waiting for… something. 
+- If you’re ready, Cadet?
+I nod.
+“I’m ready, Commander.”
+
+- Good. As I’m sure you’re aware, On-Lam’s location is highly classified, even to you. I will have to sedate you before transporting you over to her.
+Paulson walks over and I can see a syringe in her left hand. 
+I’m not scared of needles, but my skin crawls as she gently pokes the sedative into my neck and pushes the plunger. I barely feel a thing. 
+My vision blurs, and the only thing I can see is the Commander’s glasses, the only constant in a room full of smoke. 
+
+I think I hear her repeat the words, “failure is not the end” again, before my vision goes completely dark…
+And then, just silence. 
+
+…
+…
+…
+…
+…
+
+ 
+I wake to harsh light and a low hum. 
+My body is numb, but as I try to move my extremities, I can sense the feeling slowly begin to return. 
+I am still in the chair where Commander Paulson sedated me, but the room is different.
+I recognise it from training. 
+
+This is the interrogation chamber. I have questioned virtual recreations of all manner of human scum - war criminals and assassins, drug pushers and holo-pirates - over the course of my training…
+But I have never practiced the Melt on a living human being. 
+I stand up out of the chair and feel a little dizzy. I vaguely wonder how long I have been unconscious. 
+
+Ahead of me is a door behind which lies my target… and my victim. 
+I walk across the metal doorway and present my retina for scanning. 
+The sensor beeps lazily and the door swings open. 
+I walk in, trying to swallow, but my throat is far too dry for that.
+
+And then I see her - or, at least, what’s visible of her. 
+On-Lam is stood in the middle of the room, her arms and feet constrained with shackles that are of a material I can’t seem to place.
+Her body is suspended in the air by chains that are affixed to every corner of the loop - the effect is that of a floating coffin. 
+There is a helmet on her head, made of the same material as the shackles, which covers her eyes. 
+Her mouth is the only part of her body that is visible. Her lips are held together so tight that they look like some sort of wound, and I wonder if she is in pain.
+Something about her presence feels… familiar. 
+
+I catch myself almost immediately. 
+You can’t think of this scum as people. 
+As Commander Paulson said… it’s better to start with a verbal interrogation before conducting a Melt. 
+I take a deep breath… and begin. 
+
+‘You tell me, Chrono-scum.’
+He smiles, but there’s no cruelty in it. 
+She’s almost sad. 
+‘I know you’re just itching to use that thing on your wrist.
+Well, if you’re going to poke around inside my head, I’d suggest you get on with it…
+I don’t want to be stuck here all day.’
+She’s right, of course. The thing that is about to happen is going to be deeply unpleasant - for both of us. 
+I fidget with the Melt config on my wrist display and point the device towards On-Lam. 
+The readings… they’re unbelievably high. 
+Definitely not just standard memories over there in her head… there’s something more. I can feel it.
+A trap for me, no doubt. 
+But as she herself has said - no use in putting it off. 
+
+‘Do it!’ I hear her yell as I press down on the execute command on my wrist…
+…there’s a great, familiar whooshing, as my presence torpedoes in towards an abstraction of On-Lam’s mind. 
+Some of the other minor drug-pushers I’ve had to Melt during training with had tiny, insignificant minds. 
+In the Melt interface the content of their heads were represented by tiny, dirty shacks with almost nothing inside. 
+In comparison, On-Lam’s mind in front of me is a colossal palace, full of intricate rooms, stairs and doors, looping in and out of themselves. 
+It’s going to be extremely difficult to find what I’m looking for here. 
+
+I focus deeply on the building ahead and sense that behind one of the doors is what I am looking for. 
+A memory - or series of memories - that took place over the course of last night.  
+I see a museum on fire.
+I see a figure in a gas mask look upon a room filled with unspeakable violence. 
+I see a memorial wreath for a young woman, its leaves yellowed and dying.
+
+This seems…right. 
+
+I feel closer and closer to On-Lam as I focus on her and her thoughts. 
+The experience is a bleed between our feelings - there’s a fear there, but also… an anticipation? 
+Something isn’t right. 
+There is no longer a me… or a her. 
+There is a… you? 
+Yes… you. It’s you, On-Lam.
+
+You. You are running down a street ablaze with riots. You feel a sick thrill at the violence about to unfurl, and underneath it all, a simmering hate towards Chronosia. You want to see them dead. 
+
+You know that Chronosia are after you, and that they will catch you soon… but not until you collect the four Boxes, scattered among the streets of San Weyhoon. It kills you that you will only be able to reach one of them tonight. 
+
+Just one of three. 
+The first box lies with Rachel Monet, a deep cover operative posing as a director of the museum of Chronosia Industries.
+The second and third boxes were sadly captured by the Chrono-scum - they were being taken by convoy over to a nearby outpost, just past the Radius Bridge.
+The fourth box is located in [REDACTED]
+
+There is a slight chill, and I can feel my mind separate from On-Lam’s a little.
+Redacted? How? It’s more of a feeling than a word… When I try to access that section of On-Lam’s memory, it’s like I’m being physically forced out. I will figure this out later - at least I have a grip on where the other boxes are for the time being.
+I feel myself merge back into On-Lam’s consciousness…
+
+This city is still recoiling from the death of Commander Emily Yu, a notoriously cruel Chronosia operative - the Shogunate were blamed on the murder as always… But you know that the Shogunate had nothing to do with it. It’s a set up, as always. It looks like the power vacuum has finally spilled over into total anarchy… It’s going to be tough trying to get anywhere in this city. 
+
+[Note: This is the first of several decisions you will have to make - they will have an effect on how you progress through this experience.]
+[You can skip to this decision point next time you start up this program by typing ‘skip’ followed by ‘Enter’ at the ‘Chronosia Industries’ introductory screen.] 
+Where will you search?
+[0] The museum (Box 1)
+[1] The outpost (Box 2 and Box 3)
+
+You decide to go after Monet’s box. Thankfully, the museum is relatively close - you turn a corner, and it stands in front of you. The riots have been burning here for weeks now, and the grand facade of the building is smashed to bits - windows in shards, walls pockmarked with bullet holes… A wonderful sight, you think, and smile to yourself. 
+
+You feel a tinge of sadness as you consider that Monet may no longer be alive, given the state of the building - the inside is probably even worse. Nonetheless… the box must be retrieved. You go up to the front door… and enter.
+
+You recall recent intel from Shogunate HQ saying that two of the boxes have been captured by the Chronoscum, and were being taken by convoy to an outpost full of those vermin. It’s an outpost near Radius Bridge, right on the border between the slums and the more affluent areas of the city.
+You start running towards the outpost, the cold night air filling your lungs, your head full of vengeance. 
+
+You start to hear the sounds of violence long before you ever see the bridge.
+There are screams like an animal’s wailing, punctuated by staccato gunfire. 
+The air reeks of smoke, and you are reminded of the ashen smells of the church you used to go to as a child, back when you still believed in the existence of a god.
+
+You turn a corner and see the bridge ahead of you. The scene that unfolds before you is one of abject carnage - in the center of the bridge is an overturned NX999, one of Chronosia Industries’ flagship tanks, set ablaze by who knows what.
+You wonder for a moment what could have caused such damage to the colossal machine.  
+In front of it are several crucifixes, to which people - bodies - are nailed. Some are missing limbs, eyes… You think you notice one of them twitch - just your imagination? Your stomach churns at the thought. 
+
+You cross the bridge and walk into the central square… Where the violence just seems to escalate.
+The wailing, rioting crowd in the square encircling the Chronosia outpost in front of you all have ‘X’s carved into their foreheads… 
+You could have guessed from the display of violence, but this confirms it - this little slice of hell is the work of the Exers, a gang that has been wreaking havoc on the streets of San Weyhoon for the past several months.
+
+It’s clear that regardless of what has happened here, the boxes couldn’t have gone far. 
+It’s possible that they have been taken by the Exers when they were butchering the Chronosia agents in the convoy. 
+Then again, it’s possible that some of the convoy have survived the attack - it’s possible that they still have the boxes holed up in the outpost ahead. 
+As much as you hate the Chronoscum, the boxes are the priority, and, let’s face it, it wouldn’t be the first time you pretended to be one of them to get what you wanted. 
+It’s time to make a choice - will you try to find a way into the outpost and deal with the surviving Chronosia agents? Or will you try to make a deal with the Exers? 
+
+The three questions were answered correctly… The computer screen pushes inwards and slides up somewhere in the depths of the statue base. 
+
+Underneath, there is a large recess, and inside - a pitch black box. It is of such a deep colour that it doesn’t feel like it’s of this Earth. This is what you came all this way for, what you risked your life for… and now it’s in your position. 
+
+You take the box in your hands and it begins to hum - a low, even sound, soothing almost. 
+You touch it on the top surface, and it simply melts away. 
+You look inside…
+
+Whatever is contained inside the box doesn’t seem to be a physical object - it’s more like looking at the manifestation of a concept, an outward expression of an idea…
+Your head hurts - it doesn’t feel like something that the human mind is meant to comprehend.
+You focus harder on the inside of the box, and it feels like something is scratching itself into your mind… 
+
+THE SECOND DIGIT IS: 6
+…
+You have no idea what the thing inside the box is doing to you, but the more you focus, the more clear those words become…
+
+THE SECOND DIGIT IS: 6
+…
+Strange… This seems incredibly important, somehow. You feel like you should make a note of this…
+If you had a pen and paper with you, or something to type on, you would certainly be writing this down.
+
+#####OUTPOST EXER ENDING#####
+
+You rush out of the outpost, cross the square, and down the street inside the shop, wincing at the carnage you must have unleashed. 
+Inside the shop, you walk up to the Duchess and explain what you have done. 
+‘Good, good,’ she says. ‘I think I know the passageway you’re talking about… We tried using brightsteel mines from the other side, but sadly we just weren’t able to drill through - we had to have someone open the lid on the other side. 
+Excellent work, On-Lam.’
+
+What?.. 
+Did you just imagine it - or did she just call you by your name? 
+You have no time to think about the consequences of this, as your thoughts are interrupted by a thundering explosion.
+The Duchess walks over to the window… And now that it’s open, you are just in time to see the entirety of the Chronosia outpost collapse into total rubble. 
+‘Ah,’ she chuckles, ‘looks like my men made it in.’
+
+‘Well, a promise is a promise - here you go,’ she says, and takes a little black box out of her pocket, where it must have been the whole time.
+She does something to the glass… And the box seems to just melt through.
+You take the box in your hands and it begins to hum - a low, even sound, soothing almost. 
+You touch it on the top surface, and it simply melts away. 
+You look inside…
+
+Whatever is contained inside the box doesn’t seem to be a physical object - it’s more like looking at the manifestation of a concept, an outward expression of an idea…
+Your head hurts - it doesn’t feel like something that the human mind is meant to comprehend.
+You focus harder on the inside of the box, and it feels like something is scratching itself into your mind… 
+
+THE FIRST DIGIT IS: w
+…
+You have no idea what the thing inside the box is doing to you, but the more you focus, the more clear those words become…
+
+THE FIRST DIGIT IS: w
+…
+Strange… This seems incredibly important, somehow. You feel like you should make a note of this…
+If you had a pen and paper with you, or something to type on, you would certainly be writing this down.
+
+#####OUTPOST CHRONO ENDING#####
+
+Your sense of relief lasts a mere moment… But then you realise that the Duchess is still moving.
+She looks at you, sprawled across the ground and bleeding, and shows you her fist - you remember seeing her holding something inside it earlier. 
+With her other hand she removes her gas mask, finally revealing her face - and to your surprise, it’s a face that you recognise…
+
+‘Emily Yu!?’
+
+Yes, there’s no mistaking it - in front of you is the former commander of the Chronosia outpost - the several-times decorated corporate officer, Emily Yu, allegedly murdered by the Shogunate several months ago. Her fist still remains outstretched, with something inside it. 
+
+‘What’s the matter, On-Lam?’, she asks, coughing up blood. ‘Don’t tell me you’re surprised? I thought Shogunate intelligence was better than this. And yes, of course I know who you are - it doesn’t take a genius to see who would come into the middle of a warzone to nose around looking for random black boxes.’ 
+
+‘Looks like you got me - or your cronies over on the other side did, anyway…’ She coughs again, and grimaces. 
+‘Might as well tell you the whole truth, then - not like anyone will believe you, anyway.
+This plan has been in the works ever since the Sakura Docks massacre, from back in the day. 
+You would have to be an idiot not to figure out that the whole thing was staged in order to place blame on the Shogunate. 
+I mean, surely you’ve seen that display that we have in the museum - does that seem like something that actually happened?  
+But there were eyewitnesses that escaped - one of them works for you, I’m pretty sure. Operative that goes by the name of Monet?’
+
+No matter. Chronosia needed a new way to exert control over San Weyhoon and to put down your sorry little cult. 
+We couldn’t just keep attacking the peasants in the slums and blaming it on you - we need something more unpredictable. 
+Something dangerous. 
+
+It was Admiral Radius himself that gave me the assignment. 
+The people of this city… They need control. If they don’t have control, they will allow themselves to act like complete animals… Surely tonight is proof of that? You saw what they did to the convoy… To our men and women. 
+Their sacrifice will live on in the memory of Chronosia Industries. 
+ 
+For years we have been supplying arms to the more violent gangs within the city - the prototype for the Exers that you see today.
+Eventually, when it was time, my death was faked by the Admiral and a few from his close circle… Not too difficult to do, with a closed casket funeral. 
+There were a few conspiracy nuts - even in our outpost - that complained about not seeing the body, but they were either dismissed as crazy or silenced by some of our operatives. 
+
+Over the course of the next months, I rose to power among those savages - now under the moniker of the Duchess. 
+These people are weak, On-Lam - the moment that you show them control, when you exert a bit of strength… They will fall under your heel. 
+Now Chronosia has its own agent of chaos in this city - whenever we need to place our troops somewhere, we can just direct the Exers there, and use that as justification to increase our military presence. 
+
+The best part is… We can just keep blaming all the violence on you. 
+Do you think the general public cares about which gang burns down their house or kills their family? 
+They look at all of you as the animals that you are. As they should, might I add.’
+
+The Duchess gives a throaty chuckle at this, which quickly dissipates into a fit of painful, bloody coughing. 
+‘My death doesn’t change anything - I hope you realise that. 
+I am just one of many. For every Chronosia agent that you kill…
+There are ten willing to take my place. You are fighting a losing battle, On-Lam.’
+
+She smiles now, in a way that makes you nervous. 
+She shows you the closed fist again, and something about this whole situation starts to feel very wrong.
+‘Time to say your goodbyes, On-Lam. A shame, really - you’ll never find the box that I had here now.’ 
+
+The Duchess unfurls her fist… And inside you see what she has been holding there the whole time - a deadman’s switch, connected to a bomb that you now see has been strapped to her stomach. 
+
+The Duchess cackles as the bomb begins to tick, and you rush downstairs, away through the crowd of Exers that paid no attention to the murder of their leader…
+And make it just in time - you are out on the street as the building behind you rocks with a thundering explosion, completely blowing out all the windows and doors within the structure. 
+The whole thing starts to creak and moan, and you can see some of the pipes and fixtures holding the building in place begin to collapse in on themselves. 
+
+You keep running, further and further towards the outpost.
+As you look behind you, you can see that the building is now crumbling to the ground…
+The Exers, completely enraptured by this new display of destruction, abandon their vandalism of the outpost and rush towards the freshly made ruins. 
+Just the time to help the trapped Chronosia agents escape… 
+
+The evacuation doesn’t take long - the men and women in the outpost are able to exit through the front door, killing the few stragglers left in the front square.
+You decide to keep the information about the Duchess and the true nature of the Exers to yourself - these operatives are so brainwashed that they probably don’t believe you anyway, and there’s probably a way that you will be able to leverage this information later. 
+
+The leader of the convoy begrudgingly fulfils his promise, and takes the box out of his pocket - where it has presumably been the whole time.
+You take it in your hands and it begins to hum - a low, even sound, soothing almost. 
+You touch it on the top surface, and it simply melts away. 
+You look inside…
+
+Whatever is contained inside the box doesn’t seem to be a physical object - it’s more like looking at the manifestation of a concept, an outward expression of an idea…
+Your head hurts - it doesn’t feel like something that the human mind is meant to comprehend.
+You focus harder on the inside of the box, and it feels like something is scratching itself into your mind… 
+
+THE FOURTH DIGIT IS: u
+…
+You have no idea what the thing inside the box is doing to you, but the more you focus, the more clear those words become…
+
+THE FOURTH DIGIT IS: u
+…
+Strange… This seems incredibly important, somehow. You feel like you should make a note of this…
+If you had a pen and paper with you, or something to type on, you would certainly be writing this down.
+
+#####PRE-BOMB PUZZLE TEXT#####
+
+Just as soon as this thought crosses your mind, you can feel an external… presence exert pressure on you.
+On you… or on me? 
+I can… feel my consciousness separate from On-Lam’s. 
+She is pushing me out of her mind…
+
+And then I am back, safe inside my own head, my body in the interrogation chamber, standing in front of her - seconds have passed in real time, but it feels like I have been gone for hours. 
+The experience was just as uncomfortable as I imagined it would be - but now, thankfully, it is over…
+For now.
+
+I am about to speak when On-Lam floating body starts to heave and wretch. 
+A wave of panic crashes over me… Has the Melt had some kind of side-effect on my subject? 
+The retching continues, a hideous, rhythmic wet sound, until eventually it reaches a peak and some sort of object, covered in saliva, ejects itself from On-Lam’s mouth, and falls to the floor. 
+I can see On-Lam smile. 
+
+I walk over and inspect what my prisoner just produced out of her mouth…
+…it’s a small metallic bomb. 
+Live and beeping.
+WIth a countdown set to thirty seconds.
+‘Well, now,’ On-Lam says, still smiling, ‘quite the turn of events, isn’t it?
+Don’t bother calling for help, it won’t be any use - your boss was quite insistent that you handle this situation entirely on your own. 
+All the cameras are down, the doors are locked… You are completely alone in here with me.
+Whoopsie… And to think, they did such a good job of searching me.’
+
+I refuse to let the taunting get to me - instead, I muster all the courage I have left, and pick up the bomb, trying not to let On-Lam see my hands shake. 
+You have seen these before - the Shogunate use these fairly often in their terrorist acts. 
+The bomb is small, but can completely decimate anything within a 25 meter radius - certainly enough to leave both me and On-Lam a pile of ash. 
+
+On its front is a tiny keyboard - I recall from studying these types of electronics in the early Cadet classes that there is usually a four digit deactivation code on these types of bombs, which can consist of both numbers and letters. 
+…All time seems to freeze.
+There are two seconds left on the clock. 
+There is only one chance to get this right. 
+
+[This is a crucial juncture for Cadet Monad.]
+[You can skip directly to this point when you are deciding whether to go to the museum or the outpost.]
+[Instead of pressing ‘0’ or ‘1’, type ‘bomb’ instead, and hit enter.]
+What is the password? 
+
+#####BOMB FAILURE#####
+
+There is a long beep…
+The password didn’t work. 
+I can hear On-Lam let out a sharp laugh before everything goes dark…
+
+…
+…
+…
+But not completely dark.
+
+Somewhere in the distance I can see an amorphous shape…
+A pair of glasses in the smoke. 
+Commander Paulson?
+
+Failure is not the end - it’s a new beginning.
+
+It feels like I’m communicating with Commander Paulson somehow… But not verbally. 
+It’s more like she is another presence inside my head. 
+She brings up the memory of the bomb password inside my head…
+A painful memory, but she waves away the negative emotions and makes me focus on the logic behind what happened. 
+
+Is there a way I could have figured out the password? 
+The boxes I was sent to collect… Do they have something to do with it? 
+Four boxes, four digits…
+But what about the fourth box? 
+
+The glasses in the smoke shake in a motion that could be interpreted as laughing. 
+Ah, the fourth box. Well, of course, that is contained in [REDACTED].
+Again, that strange feeling of being pushed out - whatever Paulson is trying to communicate to me is being censored somehow. I can feel her try again…
+
+Ah, the fourth box. Well, of course, that is contained in [/Chronosia/data_build/dialogue_diagram/box4/thirddigit.txt].
+I can feel this string of numbers and symbols in my head… It’s somehow even more confusing. 
+What?...
+I feel myself slip away… 
+But before I do, there’s that phrase again.
+
+Failure is not the end - it’s a new beginning.
+
+I feel disoriented, as if I am tumbling through my own consciousness - it’s a feeling of nausea, but somehow translated into a mental state as opposed to a physical one. 
+Somewhere, I can feel On-Lam’s presence - this has happened before…
+
+There is no longer a me… or a her. 
+There is a… you? 
+Yes… you. It’s you, On-Lam.
+
+Wait a second - no, this has definitely happened before - this is the experience you felt when Melting with On-Lam for the first time. 
+No time to consider why this is happening - it looks like someone - or something - has given you the chance to try again. 
+To maybe do things differently this time - and try and find a different box this time, perhaps. 
+Is it possible that this kind of loop will happen again… and if so, will I be able to eventually collect all four boxes?
+
+#####BOMB SUCCESS AND TRUE ENDING#####
+
+There is a click after I type in the password… 
+And the beeping stops. 
+The bomb is deactivated and I breath a sigh of relief…
+
+In front of me, the chains holding On-Lam to the ceiling detach and the body is lowered to the ground, until the prisoner stands on her own two feet. 
+The sarcophagus releases itself and the shackles drop to the floor… 
+On-Lam reaches into her pocket and takes out a pair of familiar looking glasses. 
+She takes off her helmet, puts on the glasses, and lights up a cigarette. 
+
+This isn’t On-Lam at all. 
+The person hanging in front of me all this time wasn’t On-Lam…
+…
+…
+…
+It was Commander Paulson.
+
+‘Congratulations, Cadet,’ says Paulson, ‘or should I say, Enforcer. You passed. That fourth box was quite the doozy, wasn’t it?’ 
+I am still too stunned to speak, so the Commander keeps talking. 
+‘Apologies for my performance - I’m afraid I may have hammed it up a bit too much this time around. You no doubt have a lot of questions about what just happened here, so I’ll try to give you a brief explanation.
+
+The first, and most obvious question - how was it that you were able to repeat the events of On-Lam’s night over and over again, until you were able to collect all four boxes? 
+Why did you not die when the bomb counted all the way down to zero? 
+
+The answer to that is simple - you finally induced SightParsing. 
+I knew you were close to being able to activate this ability - you were always an extremely talented cadet - but to fully induce it you needed to believe that you were in danger of death. 
+SightParsing is the ability to see the outcome of every decision you could make at any given time, which gives you an incredible tactical advantage over your enemies. 
+When you thought you were making decisions as On-Lam - to go to the museum or the outpost, to join Chronosia or the Exers - you weren’t actually physically making those decisions. 
+You were simply calculating what would happen if you did, to such an incredible accuracy that you were able to find out what was in the boxes that lay at the end of each respective decision path.
+
+If you hadn’t activated SightParsing, you simply wouldn’t have known the password to the bomb, the timer would have ticked down to zero, and nothing would have happened - you would have to be kicked out of the academy of course, but you were never in any real danger, you just had to think that you were. 
+Fortunately this did not happen, and after each failed attempt you managed to boot yourself back to the first branching decision point to calculate another path.
+Ergo, you are still with us, and with a promotion, might I add.
+
+The Commander walks over to the interrogation table and sits down, crossing her legs and taking another drag of her cigarette. 
+The room is beginning to fill with smoke, much like the auditorium where I was given my assignment… It really feels like that was years ago.
+
+‘Now for the tough part, Enforcer Monad. 
+You may have already figured out that On-Lam doesn’t exist. 
+She is a rumour that we spread among the Cadets, to make the SightParsing exam feel more real - do you really think we would send a cadet to interrogate a war criminal?
+Now, with most cadets, I give them the sanitised version of the exam, where the Shogunate are shown as mass-murdering maniacs, ready to kill at the slightest provocation.
+
+With you… I’ve always sensed something different about you. 
+You don’t care for authority, Monad. You care about justice. So I wanted to show you the truth of what actually happens on the streets of San Weyhoon. 
+The memories you experienced may be fabrications, but the situations within them are entirely real. 
+The truth behind the massacre at Sakura Docks, the cover-up behind Emily Yu’s death, the corruption and rot at the upper levels of Chronosia Industries… It’s all real. 
+The Shogunate aren’t evil, Monad. They’re fighting for justice. 
+And you can fight for justice, too.’ 
+
+Commander Paulson goes quiet for a moment and then leans forward in her chair. 
+‘I know it’s a tough decision… But it’s one that I’m giving you, because I think you deserve it. This city is rotting, and only the Shogunate can truly enact change.
+We have eyes everywhere, and we have people within every station of government.
+It’s only a matter of time before this regime is toppled. 
+
+Will you join me?’
+
+After what I have seen, there is only one way I can answer. 
+I don’t bother with the SightParsing - I know that this is the right thing to do. 
+
+‘Yes,’ I reply.
+
+[Congratulations on completing your interactive experience, Cadet!]
+[Please don’t forget to log your thoughts and musings in the official training log, which will be reviewed by a superior before being logged in the official Chronosia Industries database.]
+[Glory to Admiral Radius!] 
+
+BROADCAST COMPLETE
+
+[Thank you for playing!]
+[CHRONOSIA is a game by Vlad ‘toadkarter’ Rakhmanin]
+[You can find more of my projects at my GitHub: https://github.com/toadkarter]
+
+[END]
